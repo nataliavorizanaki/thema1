@@ -40,9 +40,9 @@ gem 'sass-rails', '>= 3.2'
 
 gem 'jquery-rails'
 
-gem 'devise'
-
 gem 'bootstrap_form'
+
+gem 'devise'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ windows jruby ]
